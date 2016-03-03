@@ -4,16 +4,77 @@
   roles:
   - role: osxc.packages
     brew_taps:
+    - gapple/services
+    - thoughtbot/formulae
     - caskroom/fonts
+    - nviennot/tmate
     brew_packages:
-    - git
-    - zsh
     - vim
-    - the_silver_searcher
-    - ctags
-    - reattach-to-user-namespace
+    - node
+    - android-sdk
+    - redis
+    - elasticsearch
+    - postgres
+    - heroku-toolbelt
+    - htop
+    - ack
+    - tarsnap
+    - fish
+    - tree
+    - peco
+    - ag
+    - rcm
+    - mtr
+    - tpp
+    - tsung
+    - task
+    - calcurse
+    - tig
+    - slurm
+    - profanity
+    - weechat
     - tmux
+    - valgrind
+    - profanity
+    - tmate
+    - urlview
+    - msmtp
+    - notmuch
+    - offlineimap
+    - sshuttle
+    - links
+    - hub
+    - phantomjs
     cask_packages:
-    - font-inconsolata-for-powerline
-    - iterm2
+    - font-source-code-pro
+    - font-sauce-code-powerline
+    - java
+    - textmate
     - macvim
+    - iterm2
+    - firefox
+    - google-chrome
+    - dropbox
+    - 1password
+    - apptrap
+    - skype
+    - slack
+    - genymotion
+    - vlc
+    - jitsi
+    - intellij-idea
+    - vagrant
+    - libreoffice
+    - virtualbox
+    - limechat
+    - deluge
+    - phantomjs
+    - gpgtools
+    - kindle
+    - genymotion
+    - unrarx
+    - flash
+    - ynab
+    - atom
+    - adium
+    - flux
